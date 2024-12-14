@@ -14,7 +14,7 @@ This bot works well with **Discord** and uses *Open Weather API* to fetch the we
 
 Procedure to do so:
 1. invite the bot to your *Discord Server* by creating a bot on [this url](https://discord.com/developers/docs/intro)
-2. give the necessary permissions
+2. give the necessary permissions and remember to install the required packages (check out requirement.txt)
 3. type the underneath command to fetch weather information:
    
 ```
